@@ -1,1 +1,2 @@
 # Variables
+Secret and value
